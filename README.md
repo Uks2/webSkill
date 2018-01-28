@@ -1,0 +1,2 @@
+# webSkill
+Mycroft Web Skill
